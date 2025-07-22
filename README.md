@@ -1,27 +1,96 @@
-<h1 align="center">Hi 👋, I'm Aamir Mir</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+<h1 align="center">Hi there, I'm Aamir Mir 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aamirmir1&label=Profile%20views&color=0e75b6&style=flat" alt="aamirmir1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aamirmir1" alt="aamirmir1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://splendid-lime-gosling.cyclic.app/](https://splendid-lime-gosling.cyclic.app/)
-
-- 📫 How to reach me **aamir72633@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100077478429547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100077478429547" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/aamir72633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aamir72633" height="30" width="40" /></a>
+<p align="center">
+  🚀 Self-taught Full Stack Developer <br/>
+  🧠 Passionate about building scalable web & mobile apps <br/>
+  📅 Coding since <strong>August 20, 2021</strong>  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-Dynamically%20Calculated-informational?style=flat&color=blueviolet" />
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Mobile-React%20Native-informational?style=flat&logo=react&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aamirmir1&show_icons=true&locale=en&layout=compact" alt="aamirmir1" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aamirmir1&show_icons=true&locale=en" alt="aamirmir1" /></p>
+### 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aamirmir1&" alt="aamirmir1" /></p>
+- 💻 Full Stack Developer (MERN & beyond)
+- 🗓️ I’ve been coding since **August 20, 2021**
+- ⏱️ **Experience:** <!-- Replace this with a dynamic badge/API if needed -->
+  ![Years of Experience](https://badgen.net/badge/Experience/{EXPERIENCE_YEARS}+yrs/{EXPERIENCE_MONTHS}+months/blue?icon=awesome)
+- 🌐 My portfolio: [aamirmir.vercel.app](https://personal-portfolio-blond-sigma.vercel.app)
+- 🧩 Always exploring new tech & open to collaboration
+
+---
+
+### 🛠️ My Tech Toolbox
+
+#### 🖥️ Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-EF4444?logo=framer&logoColor=white&style=flat)
+![Sass](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
+
+#### ⚙️ Backend & Realtime
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
+
+#### 🗃️ Databases & ORM
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat)
+
+#### 🛠️ Dev Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aamirmir&show_icons=true&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aamirmir&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://personal-portfolio-blond-sigma.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/aamirmir">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧮 Optional Dynamic Experience Badge
+
+Want to auto-update experience from August 2021?
+
+You can host a **small API** or use [Vercel Edge Functions](https://vercel.com/docs/functions/edge-functions) like this:
+
+```ts
+export default function handler(req, res) {
+  const start = new Date("2021-08-20");
+  const now = new Date();
+  const totalMonths = (now.getFullYear() - start.getFullYear()) * 12 + (now.getMonth() - start.getMonth());
+  const years = Math.floor(totalMonths / 12);
+  const months = totalMonths % 12;
+  res.send(`${years} years and ${months} months`);
+}
