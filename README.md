@@ -1,12 +1,13 @@
 <!-- Intro Section with GIF on the Right -->
+<div style="background-color:#f0f0f0; padding: 20px; border-radius: 10px;">
 
   <table width="100%">
     <tr>
       <td align="left" valign="top" width="50%" style="font-family:Georgia, 'Lucida Handwriting', cursive;">
-        <h1>𝐻𝒾  𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 𝒜𝒶𝓂𝒾𝓇 𝑀𝒾𝓇 👋 </h1>
-        <h4 style="font-family:inherit">🚀 SELF TAUGHT FULL STACK DEVELOPER</h4>
-        <p style="font-family:inherit;">🧠 I'm a passionate Full-Stack Developer, <strong>coding since August 2021</strong>, with a strong focus on problem solving and JavaScript. I love building dynamic, scalable web and mobile applications from the ground up — crafting beautiful UIs and efficient backends. I'm always exploring new technologies and striving to improve through real-world challenges.</p>
-        <p style="font-family:inherit;">🌐 <a href="https://personal-portfolio-blond-sigma.vercel.app" target="_blank"><strong>View my portfolio</strong></a></p>
+        <h1 style="margin-bottom: 10px;">𝐻𝒾 𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 𝒜𝒶𝓂𝒾𝓇 𝑀𝒾𝓇 👋</h1>
+        <h4 style="margin: 0; font-family:inherit;">🚀 SELF TAUGHT FULL STACK DEVELOPER</h4>
+        <p style="margin: 10px 0; font-family:inherit;">🧠 I'm a passionate Full-Stack Developer, <strong>coding since August 2021</strong>, with a strong focus on problem solving and JavaScript. I love building dynamic, scalable web and mobile applications from the ground up — crafting beautiful UIs and efficient backends. I'm always exploring new technologies and striving to improve through real-world challenges.</p>
+        <p style="margin: 10px 0; font-family:inherit;">🌐 <a href="https://personal-portfolio-blond-sigma.vercel.app" target="_blank"><strong>View my portfolio</strong></a></p>
       </td>
       <td align="right" valign="top" width="50%">
         <img src="https://res.cloudinary.com/dhh1jotfq/image/upload/v1753221861/Animation_cbcs3z.gif" alt="Coding GIF" width="100%" />
@@ -14,15 +15,20 @@
     </tr>
   </table>
 
-
+</div>
 
 ---
 
 ## ⚡ Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,typescript,javascript,sass" height="48" />
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg" height="48" title="React Native" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" height="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" height="48" />
+  <img src="https://skillicons.dev/icons?i=redux" title="Redux" height="48" />
+  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" height="48" />
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" height="48" />
+  <img src="https://skillicons.dev/icons?i=sass" title="Sass" height="48" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg" title="React Native" height="48" />
 </p>
 
 ---
@@ -30,8 +36,12 @@
 ## 🔧 Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,graphql,redis" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="48" title="Socket.IO" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="48" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" height="48" />
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="48" />
+  <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL" height="48" />
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" title="Socket.IO" height="48" />
 </p>
 
 ---
@@ -39,7 +49,10 @@
 ## 🗃️ Databases & ORM
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="48" />
+  <img src="https://skillicons.dev/icons?i=prisma" title="Prisma ORM" height="48" />
 </p>
 
 ---
@@ -47,7 +60,11 @@
 ## 🛠️ Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="48" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="48" />
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" height="48" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="48" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="48" />
 </p>
 
 ---
