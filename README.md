@@ -1,12 +1,12 @@
 <!-- Intro Section with GIF on the Right -->
 <table width="100%">
   <tr>
-    <td align="left" valign="top" width="50%">
-      <h1>Hi there, I'm Aamir Mir 👋</h1>
-      <p>🚀 Self-taught Full Stack Developer</p>
-      <p>🧠 Passionate about building web & mobile apps</p>
-      <p>🌐 <a href="https://personal-portfolio-blond-sigma.vercel.app" target="_blank"><strong>View my portfolio</strong></a></p>
-    </td>
+    <td align="left" valign="top" width="50%" style="font-family:Georgia, 'Lucida Handwriting', cursive;">
+  <h1>Hi there, I'm Aamir Mir 👋</h1>
+  <p style="font-family:inherit;">🚀 Self-taught Full Stack Developer</p>
+  <p style="font-family:inherit;">🧠 Passionate about building web & mobile apps</p>
+  <p style="font-family:inherit;">🌐 <a href="https://personal-portfolio-blond-sigma.vercel.app" target="_blank"><strong>View my portfolio</strong></a></p>
+</td>
     <td align="right" valign="top" width="50%">
       <img src="https://res.cloudinary.com/dhh1jotfq/image/upload/v1753221861/Animation_cbcs3z.gif" alt="Coding GIF" width="100%" />
     </td>
