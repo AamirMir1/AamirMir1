@@ -8,25 +8,39 @@
 
 ---
 
-### 🛠️ My Tech Stack
+## ⚡ Frontend
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,typescript,javascript,sass,framer" height="48" />
-  <br/><br/>
-  <!-- Backend & Realtime -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,redux,typescript,javascript,sass,framer" height="48" />
+</p>
+
+---
+
+## 🔧 Backend
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,socketio,firebase,graphql,redis" height="48" />
-  <br/><br/>
-  <!-- Databases & ORM -->
+</p>
+
+---
+
+## 🗃️ Databases & ORM
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" height="48" />
-  <br/><br/>
-  <!-- Tools -->
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode" height="48" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aamirmir&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -35,7 +49,7 @@
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://personal-portfolio-blond-sigma.vercel.app" target="_blank">
@@ -48,4 +62,4 @@
 
 ---
 
-_Thanks for stopping by! Feel free to explore and connect!_
+_Thanks for visiting my profile! Feel free to star ⭐️ or reach out!_
