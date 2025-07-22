@@ -2,7 +2,7 @@
 <table width="100%">
   <tr>
     <td align="left" valign="top" width="50%" style="font-family:Georgia, 'Lucida Handwriting', cursive;">
-  <h1>Hi there, I'm Aamir Mir 👋</h1>
+  <h1>𝐻𝒾 𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 𝒜𝒶𝓂𝒾𝓇 𝑀𝒾𝓇 👋</h1>
   <p style="font-family:inherit;">🚀 Self-taught Full Stack Developer</p>
   <p style="font-family:inherit;">🧠 Passionate about building web & mobile apps</p>
   <p style="font-family:inherit;">🌐 <a href="https://personal-portfolio-blond-sigma.vercel.app" target="_blank"><strong>View my portfolio</strong></a></p>
