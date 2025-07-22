@@ -1,6 +1,6 @@
-<!-- Aesthetic Animated Code Background -->
+<!-- 🖼️ Aesthetic Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=22E5E3&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aamir+Mir;Full+Stack+Developer+(React+%2B+Node);Let's+build+cool+stuff+together!" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/aamirmir/assets/main/banner-dark.png" alt="Aamir Mir - Full Stack Developer Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Aamir Mir 👋</h1>
@@ -9,11 +9,6 @@
   🚀 Self-taught Full Stack Developer <br/>
   🧠 Passionate about building web & mobile apps <br/>
   🌐 <a href="https://personal-portfolio-blond-sigma.vercel.app">View my portfolio</a>
-</p>
-
-<!-- Optional ASCII code-like visual separator -->
-<p align="center">
-  <img src="https://i.imgur.com/YCmZXxS.gif" width="100%" alt="coding-background" />
 </p>
 
 ---
