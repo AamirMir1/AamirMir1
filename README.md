@@ -9,7 +9,7 @@
         <p style="font-family:inherit;">🌐 <a href="https://personal-portfolio-blond-sigma.vercel.app" target="_blank"><strong>View my portfolio</strong></a></p>
       </td>
       <td align="right" valign="top" width="50%">
-        <img src="https://res.cloudinary.com/dhh1jotfq/image/upload/v1753221861/Animation_cbcs3z.gif" alt="Coding GIF" width="300" />
+        <img src="https://res.cloudinary.com/dhh1jotfq/image/upload/v1753221861/Animation_cbcs3z.gif" alt="Coding GIF" width="100%" />
       </td>
     </tr>
   </table>
