@@ -11,7 +11,8 @@
 ## ⚡ Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,redux,typescript,javascript,sass,framer" height="48" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,typescript,javascript,sass,framer" height="48" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" height="28" />
 </p>
 
 ---
@@ -19,7 +20,8 @@
 ## 🔧 Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,socketio,firebase,graphql,redis" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,graphql,redis" height="48" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white&style=for-the-badge" height="28" />
 </p>
 
 ---
