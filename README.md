@@ -1,6 +1,6 @@
 <!-- 🎬 Coding Banner GIF -->
 <p align="center">
-  <img src="https://res.cloudinary.com/dhh1jotfq/image/upload/v1753221861/Animation_cbcs3z.gif" alt="Coding Banner" width="700" />
+  <img src="https://res.cloudinary.com/dhh1jotfq/image/upload/v1753221861/Animation_cbcs3z.gif" alt="Coding Banner" width="300" />
 </p>
 
 
