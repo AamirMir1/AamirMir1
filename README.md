@@ -1,7 +1,8 @@
 <!-- 🎬 Coding Banner GIF -->
 <p align="center">
-  <img src="https://res.cloudinary.com/dhh1jotfq/image/upload/v1753221861/Animation_cbcs3z.gif" alt="Aamir Mir - Backend Animation" width="100%" />
+  <img src="https://res.cloudinary.com/dhh1jotfq/image/upload/v1753221861/Animation_cbcs3z.gif" alt="Coding Banner" width="700" />
 </p>
+
 
 <h1 align="center">Hi there, I'm Aamir Mir 👋</h1>
 
