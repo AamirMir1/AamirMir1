@@ -4,8 +4,8 @@
     <tr>
       <td align="left" valign="top" width="50%" style="font-family:Georgia, 'Lucida Handwriting', cursive;">
         <h1>𝐻𝒾  𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 𝒜𝒶𝓂𝒾𝓇 𝑀𝒾𝓇 👋 </h1>
-        <strong style="font-family:inherit; font-size: 18;">🚀 Self-taught Full Stack Developer</strong>
-        <p style="font-family:inherit;">🧠 Passionate about building web & mobile apps</p>
+        <strong style="font-family:inherit">🚀 Self-taught Full Stack Developer</strong>
+        <p style="font-family:inherit;">🧠 I'm a passionate Full-Stack Developer, <strong>coding since August 2021</strong>, with a strong focus on problem solving and JavaScript. I love building dynamic, scalable web and mobile applications from the ground up — crafting beautiful UIs and efficient backends. I'm always exploring new technologies and striving to improve through real-world challenges.</p>
         <p style="font-family:inherit;">🌐 <a href="https://personal-portfolio-blond-sigma.vercel.app" target="_blank"><strong>View my portfolio</strong></a></p>
       </td>
       <td align="right" valign="top" width="50%">
