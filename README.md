@@ -12,7 +12,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,typescript,javascript,sass,framer" height="48" />
-  <img src="https://skillicons.dev/icons?i=react" height="48" title="React Native" />
 </p>
 
 ---
