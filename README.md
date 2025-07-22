@@ -1,16 +1,17 @@
-<!-- 🎬 Coding Banner GIF -->
-<p align="center">
-  <img src="https://res.cloudinary.com/dhh1jotfq/image/upload/v1753221861/Animation_cbcs3z.gif" alt="Coding Banner" width="300" />
-</p>
-
-
-<h1 align="center">Hi there, I'm Aamir Mir 👋</h1>
-
-<p align="center">
-  🚀 Self-taught Full Stack Developer <br/>
-  🧠 Passionate about building web & mobile apps <br/>
-  🌐 <a href="https://personal-portfolio-blond-sigma.vercel.app">View my portfolio</a>
-</p>
+<!-- Intro Section with GIF on the Right -->
+<table width="100%">
+  <tr>
+    <td align="left" valign="top" width="60%">
+      <h1>Hi there, I'm Aamir Mir 👋</h1>
+      <p>🚀 Self-taught Full Stack Developer</p>
+      <p>🧠 Passionate about building web & mobile apps</p>
+      <p>🌐 <a href="https://personal-portfolio-blond-sigma.vercel.app" target="_blank"><strong>View my portfolio</strong></a></p>
+    </td>
+    <td align="right" valign="top" width="40%">
+      <img src="https://res.cloudinary.com/dhh1jotfq/image/upload/v1753221861/Animation_cbcs3z.gif" alt="Coding GIF" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -18,6 +19,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,typescript,javascript,sass,framer" height="48" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg" height="48" title="React Native" />
 </p>
 
 ---
@@ -26,7 +28,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,graphql,redis" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="48" title="Socket.IO" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="48" title="Socket.IO" />
 </p>
 
 ---
