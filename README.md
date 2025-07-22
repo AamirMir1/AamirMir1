@@ -1,6 +1,6 @@
-<!-- 🖼️ Aesthetic Banner -->
+<!-- 🎬 Coding Banner GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aamirmir/assets/main/banner-dark.png" alt="Aamir Mir - Full Stack Developer Banner" width="100%" />
+  <img src="https://res.cloudinary.com/dhh1jotfq/image/upload/v1753221861/Animation_cbcs3z.gif" alt="Aamir Mir - Backend Animation" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Aamir Mir 👋</h1>
@@ -42,15 +42,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode" height="48" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aamirmir&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aamirmir&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
