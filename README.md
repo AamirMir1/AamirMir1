@@ -58,7 +58,7 @@
   <a href="https://personal-portfolio-blond-sigma.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/aamirmir" target="_blank">
+  <a href="https://github.com/AamirMir1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
