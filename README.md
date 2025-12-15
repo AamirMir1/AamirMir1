@@ -7,7 +7,7 @@
         <h1 style="margin-bottom: 10px;">𝐻𝒾 𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 𝒜𝒶𝓂𝒾𝓇 𝑀𝒾𝓇 👋</h1>
         <h4 style="margin: 0; font-family:inherit;">🚀 SELF TAUGHT FULL STACK DEVELOPER</h4>
         <p style="margin: 10px 0; font-family:inherit;">🧠 I'm a passionate Full-Stack Developer, <strong>coding since August 2021</strong>, with a strong focus on problem solving and JavaScript. I love building dynamic, scalable web and mobile applications from the ground up — crafting beautiful UIs and efficient backends. I'm always exploring new technologies and striving to improve through real-world challenges.</p>
-        <p style="margin: 10px 0; font-family:inherit;">🌐 <a href="https://personal-portfolio-blond-sigma.vercel.app" target="_blank"><strong>View my portfolio</strong></a></p>
+        <p style="margin: 10px 0; font-family:inherit;">🌐 <a href="https://personal-portfolio-harisalternatives-projects.vercel.app" target="_blank"><strong>View my portfolio</strong></a></p>
       </td>
       <td align="right" valign="top" width="50%">
         <img src="https://res.cloudinary.com/dhh1jotfq/image/upload/v1753221861/Animation_cbcs3z.gif" alt="Coding GIF" width="100%" />
@@ -72,7 +72,7 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://personal-portfolio-blond-sigma.vercel.app" target="_blank">
+  <a href="https://personal-portfolio-harisalternatives-projects.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/AamirMir1" target="_blank">
